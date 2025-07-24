@@ -5,7 +5,7 @@
 1. Instalado Node.js y npm
 2. Instalado Docker Desktop (opcional)
 3. Instalado n8n globalmente con `npm install -g n8n`
-4. Verificada la arquitectura del sistema (64-bit, amd64)
+4. Verificada la arquitectura del sistema (64-bit, amd64) para instalar docker-desktop
 5. Iniciado n8n localmente con el comando `n8n`
 6. Acceso a la interfaz web en http://localhost:5678
 7. Creación de un nuevo flujo de trabajo
