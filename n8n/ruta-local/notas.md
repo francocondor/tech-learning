@@ -13,7 +13,6 @@
 
 ### Configuración y pruebas de envío de correo
 - Configurada credencial SMTP con autenticación, puerto 465 y SSL/TLS
-- Ajustado el campo "client host name" para evitar error HELO (usando "localhost")
 - Solucionados errores de autenticación y relay configurando usuario y contraseña correctos
 - Realizada prueba de envío de correo con contenido en texto y HTML
 - Prueba exitosa de envío de correo usando Postman y el webhook de n8n
