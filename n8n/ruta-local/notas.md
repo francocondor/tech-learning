@@ -27,10 +27,20 @@
 - Servidores propios pueden configurarse sin límite, pero corres riesgo de ser marcado como spam si abusas
 - Es recomendable consultar la política de tu proveedor para evitar bloqueos
 
+
 ## Observaciones generales
 - n8n muestra mensaje para activar funciones avanzadas (no obligatorio)
 - Todos los nodos y disparadores básicos son gratuitos
 - Solo servicios externos pueden requerir cuentas o pagos
+
+### Opciones gratuitas para desplegar n8n
+- Railway (plan gratuito con límites de uso)
+- Render.com (plan gratuito con límites de uso)
+- Fly.io (puedes correr contenedores gratis con ciertas restricciones)
+- Raspberry Pi o servidor propio en casa (solo pagas electricidad y hardware)
+- Heroku (solo si tienes cuenta legacy, ya que el plan gratuito fue descontinuado para nuevos usuarios)
+
+> Nota: Los planes gratuitos suelen tener límites de uso, recursos y tiempo de ejecución. Para producción estable, considera opciones de pago.
 
 ---
 Puedes seguir agregando aquí cada paso, configuración, error o aprendizaje relevante durante tu avance con n8n.
