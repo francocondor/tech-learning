@@ -43,4 +43,18 @@
 > Nota: Los planes gratuitos suelen tener límites de uso, recursos y tiempo de ejecución. Para producción estable, considera opciones de pago.
 
 ---
+
+### Despliegue de n8n en Railway (paso a paso)
+1. Crea una cuenta en https://railway.app/ (puedes usar GitHub para registrarte).
+2. Haz clic en "New Project" y selecciona "Deploy from Template".
+3. Busca "n8n" en los templates o usa este enlace directo: https://railway.app/template/n8n
+4. Haz clic en "Deploy Now".
+5. Railway creará el proyecto y desplegará n8n automáticamente.
+6. Configura las variables de entorno necesarias (por ejemplo, N8N_BASIC_AUTH_USER, N8N_BASIC_AUTH_PASSWORD para proteger tu instancia).
+7. Espera a que el deploy termine y haz clic en el enlace generado para acceder a tu instancia de n8n.
+8. (Opcional) Configura un dominio personalizado desde Railway si lo necesitas.
+
+> Recuerda: El plan gratuito de Railway tiene límites de horas de uso y recursos. Si tu instancia se detiene, puedes reiniciarla desde el panel.
+
+---
 Puedes seguir agregando aquí cada paso, configuración, error o aprendizaje relevante durante tu avance con n8n.
